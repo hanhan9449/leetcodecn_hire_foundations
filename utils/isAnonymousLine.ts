@@ -1,1 +1,1 @@
-export const isAnonymousLine = (line: string) => line.includes('<anonymous>:');
+export const isAnonymousLine: (s: string) => boolean = (line: string) => line.includes('<anonymous>:');

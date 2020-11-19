@@ -1,6 +1,6 @@
-describe("test getError function", () => {
+describe('test getError function', () => {
   // TODO
   test.skip('', () => {
     // ;
-  })
-})
+  });
+});
